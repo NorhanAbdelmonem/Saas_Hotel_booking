@@ -1,4 +1,4 @@
-### 🏨 Hotel Booking Platform  <-- H3
+##### 🏨 Hotel Booking Platform 
 
 #📌 Overview
 This project is a multi-vendor hotel booking platform(SaaS) built with Spring Boot.
